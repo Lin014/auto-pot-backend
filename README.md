@@ -1,4 +1,4 @@
-# Auto Pot Backend
+# Auto Potting Backend
 Object-Oriented Class Teamwork 2
 
 ## Framework
